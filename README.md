@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HSV7ZPEDNEH94YYN18VTAK7J
-  version: v3
----
-
 # How to
 Starting from chipyard root
 ```
