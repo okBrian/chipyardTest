@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/bok/dev/chipyard/generators/rgTest/src/main/scala/Not.scala:22:26: not found: type AESAccel[0m
+[0m[[0m[31merror[0m] [0m[0mclass notAccelImp(outer: AESAccel)(implicit p: Parameters) extends LazyRoCCModuleImp(outer) with HasCoreParameters {[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
